@@ -191,7 +191,7 @@ x = Math.round(20.49);'
 
 
 
-
+![Изображение](https://www.tutorialstonight.com/assets/js/javascript-math-properties-and-method.webp "Логотип Markdown")
 
 
 
@@ -227,4 +227,4 @@ Returns the arctangent of x as a numeric value between -PI/2 and PI/2 radians
 
 
 
-![Изображение](https://www.tutorialstonight.com/assets/js/javascript-number-properties-and-methods.webp "Логотип Markdown")
+
