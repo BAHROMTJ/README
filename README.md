@@ -29,7 +29,7 @@
 *String charAt()
 *String charCodeAt()
 *String split()
-![Изображение](https://imgur.io/20FIxbB "Логотип Markdown")
+![Изображение]([https://imgur.io/20FIxbB](https://i.imgur.com/20FIxbB.jpeg) "Логотип Markdown")
 
 
 **1. length() Method**
