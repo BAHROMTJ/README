@@ -58,6 +58,7 @@
 
 `var str = "Hello Morioh";
 var x = str.length;`
+
 **Выход**
 
 `// return
@@ -68,10 +69,12 @@ var x = str.length;`
 **2. toLocaleLowerCase()**
 
 JavaScript toLocaleLowerCase() используется для преобразования строки в нижний регистр.
+
 **Пример**
 
 `var str = "Hello Morioh";
 var res = str.toLocaleLowerCase();`
+
 **Выход**
 
 ``// return
@@ -89,10 +92,12 @@ hello morioh``
 **3. toLocaleUpperCase() Method**
 
 JavaScript toLocaleUpperCase() используется для преобразования строки в верхний регистр.
+
 **Пример**
 
 `var str = "Hello Morioh";
 var res = str.toLocaleUpperCase();`
+
 **Выход**
 
 ``// return
@@ -151,6 +156,8 @@ Javascript replace() изменяет определенное значение 
 
 
 # JavaScript Number methods
+
+![Изображение](https://www.tutorialstonight.com/assets/js/javascript-number-properties-and-methods.webp "Логотип Markdown")
 
 **Math.floor()**
 
@@ -218,3 +225,6 @@ Returns the hyperbolic arcsine of x
 
 Returns the arctangent of x as a numeric value between -PI/2 and PI/2 radians
 
+
+
+![Изображение](https://www.tutorialstonight.com/assets/js/javascript-number-properties-and-methods.webp "Логотип Markdown")
